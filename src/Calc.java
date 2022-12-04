@@ -4,6 +4,6 @@ public class Calc {
         double quadrateNumber = Math.pow(x, j);
         System.out.println("Возведение числа х в степень: "  + j + " равно " + quadrateNumber);
         return quadrateNumber;
-    }
+    } //
 }
 
